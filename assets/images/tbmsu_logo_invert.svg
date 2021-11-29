@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170mm"
+   height="100mm"
+   viewBox="0 0 170 100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tbmsu_logo_invers.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:pagecheckerboard="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="540.47595"
+     inkscape:cy="232.8461"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Box 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect1927"
+       width="170"
+       height="45"
+       x="7.6293946e-07"
+       y="55"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text 1">
+    <text
+       id="text1919"
+       y="86.900429"
+       x="5.2196846"
+       style="font-style:normal;font-weight:normal;font-size:16.1028px;line-height:1.25;font-family:sans-serif;letter-spacing:0.805148px;word-spacing:0px;fill:#313131;fill-opacity:1;stroke:none;stroke-width:0.402574;"
+       xml:space="preserve"
+       transform="scale(0.95791234,1.0439369)"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.0589px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#313131;fill-opacity:1;stroke-width:0.402574;"
+         y="86.900429"
+         x="5.2196846"
+         id="tspan1917"
+         sodipodi:role="line">tbmsu.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Box 2">
+    <rect
+       y="0"
+       x="0"
+       height="45"
+       width="45"
+       id="rect2814"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9288px;line-height:1.25;font-family:sans-serif;fill:#313131;fill-opacity:1;stroke:none;stroke-width:0.473221;"
+       x="3.6690688"
+       y="14.561742"
+       id="text1923"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001"><tspan
+         sodipodi:role="line"
+         id="tspan1921"
+         x="3.6690688"
+         y="14.561742"
+         style="fill:#313131;fill-opacity:1;stroke-width:0.473221;"
+         dy="5.3656592">飛び</tspan><tspan
+         sodipodi:role="line"
+         x="3.6690688"
+         y="39.58646"
+         style="fill:#313131;fill-opacity:1;stroke-width:0.473221;"
+         id="tspan1925">ます</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Lines">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect2839"
+       width="45"
+       height="4"
+       x="121"
+       y="-8.8817842e-16"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001" />
+    <rect
+       y="-170"
+       x="-2.220446e-16"
+       height="4"
+       width="27"
+       id="rect2839-8"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.204945"
+       transform="rotate(90)"
+       inkscape:export-xdpi="96.012001"
+       inkscape:export-ydpi="96.012001" />
+  </g>
+</svg>
